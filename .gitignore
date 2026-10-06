@@ -1,0 +1,13 @@
+# Configuración con claves y contraseñas: nunca se sube
+src/java/config.properties
+
+# Archivos que genera NetBeans al compilar
+build/
+dist/
+nbproject/private/
+
+# Archivos basura de Windows
+Thumbs.db
+desktop.ini
+# Logs
+*.log
